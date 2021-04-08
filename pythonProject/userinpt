@@ -1,0 +1,5 @@
+print("Enter Two Value For Performing Addition")
+val1=int(input("Enter First Number :-  "))
+val2=int(input("Enter Second Number :-  "))
+result=val1+val2
+print(result)

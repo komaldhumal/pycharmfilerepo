@@ -1,0 +1,4 @@
+first_name,second_name,third_name=input("Enter Your Full Name").spilt()
+print("First Name =",first_name)
+print("Middle Name =",second_name)
+print("Surname =",third_name)
